@@ -15,6 +15,7 @@
 		219C5AC320DB44120009DBBD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 219C5AC120DB44120009DBBD /* LaunchScreen.storyboard */; };
 		219C5ACE20DB44130009DBBD /* WalkAnyWhereTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 219C5ACD20DB44130009DBBD /* WalkAnyWhereTests.swift */; };
 		219C5AD920DB44130009DBBD /* WalkAnyWhereUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 219C5AD820DB44130009DBBD /* WalkAnyWhereUITests.swift */; };
+		219C5AE820DB44C90009DBBD /* LocationTransform.swift in Sources */ = {isa = PBXBuildFile; fileRef = 219C5AE720DB44C90009DBBD /* LocationTransform.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,8 @@
 		219C5AD420DB44130009DBBD /* WalkAnyWhereUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WalkAnyWhereUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		219C5AD820DB44130009DBBD /* WalkAnyWhereUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WalkAnyWhereUITests.swift; sourceTree = "<group>"; };
 		219C5ADA20DB44130009DBBD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		219C5AE620DB444A0009DBBD /* CompanyLocation.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = CompanyLocation.gpx; sourceTree = "<group>"; };
+		219C5AE720DB44C90009DBBD /* LocationTransform.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LocationTransform.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +104,8 @@
 			children = (
 				219C5AB520DB44120009DBBD /* AppDelegate.swift */,
 				219C5AB720DB44120009DBBD /* ViewController.swift */,
+				219C5AE720DB44C90009DBBD /* LocationTransform.swift */,
+				219C5AE620DB444A0009DBBD /* CompanyLocation.gpx */,
 				219C5AB920DB44120009DBBD /* Main.storyboard */,
 				219C5ABF20DB44120009DBBD /* Assets.xcassets */,
 				219C5AC120DB44120009DBBD /* LaunchScreen.storyboard */,
@@ -262,6 +267,7 @@
 				219C5AB820DB44120009DBBD /* ViewController.swift in Sources */,
 				219C5ABE20DB44120009DBBD /* WalkAnyWhere.xcdatamodeld in Sources */,
 				219C5AB620DB44120009DBBD /* AppDelegate.swift in Sources */,
+				219C5AE820DB44C90009DBBD /* LocationTransform.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
