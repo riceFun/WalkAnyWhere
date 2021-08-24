@@ -16,6 +16,16 @@
 		219C5ACE20DB44130009DBBD /* WalkAnyWhereTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 219C5ACD20DB44130009DBBD /* WalkAnyWhereTests.swift */; };
 		219C5AD920DB44130009DBBD /* WalkAnyWhereUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 219C5AD820DB44130009DBBD /* WalkAnyWhereUITests.swift */; };
 		219C5AE820DB44C90009DBBD /* LocationTransform.swift in Sources */ = {isa = PBXBuildFile; fileRef = 219C5AE720DB44C90009DBBD /* LocationTransform.swift */; };
+		42174FB326B3960C00FA0F34 /* XiAnDaYanTa.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 42174FB226B3960C00FA0F34 /* XiAnDaYanTa.gpx */; };
+		4289F3D02696AA3A009BA5C9 /* XiaChenFengYuanLocation.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 4289F3CF2696AA3A009BA5C9 /* XiaChenFengYuanLocation.gpx */; };
+		42DC171126835600001E4B30 /* FenKouXiuQinJiaLocation.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 42DC171026835600001E4B30 /* FenKouXiuQinJiaLocation.gpx */; };
+		A11081B4251CE4510037D2AF /* TianDuChengStarbucksLocation.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A11081B3251CE4510037D2AF /* TianDuChengStarbucksLocation.gpx */; };
+		A125A4EA255EC5780085F423 /* HaiNingXiLocation.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A125A4E9255EC5780085F423 /* HaiNingXiLocation.gpx */; };
+		A1849408253ECEA70071FE0C /* XiaMenLocation.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1849407253ECEA70071FE0C /* XiaMenLocation.gpx */; };
+		A184940D253ED2B90071FE0C /* ShangHaiLuJiaZuiLocation.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A184940C253ED2B90071FE0C /* ShangHaiLuJiaZuiLocation.gpx */; };
+		A195A4E52517AB1F00C2F83F /* XuCunLocation.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A195A4E42517AB1F00C2F83F /* XuCunLocation.gpx */; };
+		A195A4E72517AB9400C2F83F /* TongHeLocation.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A195A4E62517AB9400C2F83F /* TongHeLocation.gpx */; };
+		A1E6E33D2575144400899515 /* QingDaoLocation.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1E6E33C2575144400899515 /* QingDaoLocation.gpx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +62,17 @@
 		219C5ADA20DB44130009DBBD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		219C5AE620DB444A0009DBBD /* CompanyLocation.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = CompanyLocation.gpx; sourceTree = "<group>"; };
 		219C5AE720DB44C90009DBBD /* LocationTransform.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LocationTransform.swift; sourceTree = "<group>"; };
+		42174FB226B3960C00FA0F34 /* XiAnDaYanTa.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = XiAnDaYanTa.gpx; sourceTree = "<group>"; };
+		4289F3CF2696AA3A009BA5C9 /* XiaChenFengYuanLocation.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = XiaChenFengYuanLocation.gpx; sourceTree = "<group>"; };
+		42DC171026835600001E4B30 /* FenKouXiuQinJiaLocation.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = FenKouXiuQinJiaLocation.gpx; sourceTree = "<group>"; };
+		A11081B3251CE4510037D2AF /* TianDuChengStarbucksLocation.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = TianDuChengStarbucksLocation.gpx; sourceTree = "<group>"; };
+		A125A4E9255EC5780085F423 /* HaiNingXiLocation.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = HaiNingXiLocation.gpx; sourceTree = "<group>"; };
+		A172EE972675DA4C002D8DC9 /* majinqichezhanLocation.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = majinqichezhanLocation.gpx; sourceTree = "<group>"; };
+		A1849407253ECEA70071FE0C /* XiaMenLocation.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = XiaMenLocation.gpx; sourceTree = "<group>"; };
+		A184940C253ED2B90071FE0C /* ShangHaiLuJiaZuiLocation.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = ShangHaiLuJiaZuiLocation.gpx; sourceTree = "<group>"; };
+		A195A4E42517AB1F00C2F83F /* XuCunLocation.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = XuCunLocation.gpx; sourceTree = "<group>"; };
+		A195A4E62517AB9400C2F83F /* TongHeLocation.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = TongHeLocation.gpx; sourceTree = "<group>"; };
+		A1E6E33C2575144400899515 /* QingDaoLocation.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = QingDaoLocation.gpx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,12 +126,23 @@
 				219C5AB520DB44120009DBBD /* AppDelegate.swift */,
 				219C5AB720DB44120009DBBD /* ViewController.swift */,
 				219C5AE720DB44C90009DBBD /* LocationTransform.swift */,
+				A172EE972675DA4C002D8DC9 /* majinqichezhanLocation.gpx */,
 				219C5AE620DB444A0009DBBD /* CompanyLocation.gpx */,
+				A195A4E42517AB1F00C2F83F /* XuCunLocation.gpx */,
+				A195A4E62517AB9400C2F83F /* TongHeLocation.gpx */,
+				A11081B3251CE4510037D2AF /* TianDuChengStarbucksLocation.gpx */,
+				A1849407253ECEA70071FE0C /* XiaMenLocation.gpx */,
+				A184940C253ED2B90071FE0C /* ShangHaiLuJiaZuiLocation.gpx */,
+				A125A4E9255EC5780085F423 /* HaiNingXiLocation.gpx */,
+				A1E6E33C2575144400899515 /* QingDaoLocation.gpx */,
+				4289F3CF2696AA3A009BA5C9 /* XiaChenFengYuanLocation.gpx */,
+				42174FB226B3960C00FA0F34 /* XiAnDaYanTa.gpx */,
 				219C5AB920DB44120009DBBD /* Main.storyboard */,
 				219C5ABF20DB44120009DBBD /* Assets.xcassets */,
 				219C5AC120DB44120009DBBD /* LaunchScreen.storyboard */,
 				219C5AC420DB44120009DBBD /* Info.plist */,
 				219C5ABC20DB44120009DBBD /* WalkAnyWhere.xcdatamodeld */,
+				42DC171026835600001E4B30 /* FenKouXiuQinJiaLocation.gpx */,
 			);
 			path = WalkAnyWhere;
 			sourceTree = "<group>";
@@ -239,7 +271,17 @@
 			files = (
 				219C5AC320DB44120009DBBD /* LaunchScreen.storyboard in Resources */,
 				219C5AC020DB44120009DBBD /* Assets.xcassets in Resources */,
+				4289F3D02696AA3A009BA5C9 /* XiaChenFengYuanLocation.gpx in Resources */,
+				42174FB326B3960C00FA0F34 /* XiAnDaYanTa.gpx in Resources */,
+				A184940D253ED2B90071FE0C /* ShangHaiLuJiaZuiLocation.gpx in Resources */,
+				A11081B4251CE4510037D2AF /* TianDuChengStarbucksLocation.gpx in Resources */,
+				A195A4E52517AB1F00C2F83F /* XuCunLocation.gpx in Resources */,
+				A1849408253ECEA70071FE0C /* XiaMenLocation.gpx in Resources */,
+				A195A4E72517AB9400C2F83F /* TongHeLocation.gpx in Resources */,
 				219C5ABB20DB44120009DBBD /* Main.storyboard in Resources */,
+				42DC171126835600001E4B30 /* FenKouXiuQinJiaLocation.gpx in Resources */,
+				A1E6E33D2575144400899515 /* QingDaoLocation.gpx in Resources */,
+				A125A4EA255EC5780085F423 /* HaiNingXiLocation.gpx in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -440,15 +482,17 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = TM6D7482ZM;
+				DEVELOPMENT_TEAM = HTC9V9383C;
 				INFOPLIST_FILE = WalkAnyWhere/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = riceFun.WalkAnyWhere;
+				PRODUCT_BUNDLE_IDENTIFIER = kkk;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -458,15 +502,17 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = TM6D7482ZM;
+				DEVELOPMENT_TEAM = HTC9V9383C;
 				INFOPLIST_FILE = WalkAnyWhere/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = riceFun.WalkAnyWhere;
+				PRODUCT_BUNDLE_IDENTIFIER = kkk;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};

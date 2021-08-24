@@ -6,10 +6,9 @@
      waypoint, Xcode will simulate that specific location. If you provide multiple waypoints,
      Xcode will simulate a route visiting each waypoint.
      -->
-
+    <wpt lat="34.21978459245124" lon="108.9594524316531">
+        <name>西安大雁塔</name>
         
-    <wpt lat="30.295081121774338" lon="120.10331635851875">
-        <name>莱茵矩阵</name>
         <!--
          Optionally provide a time element for each waypoint. Xcode will interpolate movement
          at a rate of speed based on the time elapsed between each waypoint. If you do not provide
@@ -21,25 +20,3 @@
     </wpt>
     
 </gpx>
-
-
-<!--<wpt lat="30.3986981556864" lon="120.246624010944">-->
-<!--    <name>通和十二橡树</name>-->
-
-<!--<wpt lat="30.593234492328744" lon="104.06263069384391">-->
-<!--    <name>成都</name>-->
-
-<!--<wpt lat="30.1319647988146" lon="120.076985813694">-->
-<!--    <name>中大银座</name>-->
-
-<!--<wpt lat="30.295081121774338" lon="120.10331635851875">-->
-<!--    <name>莱茵矩阵</name>-->
-
-<!--<wpt lat="30.426467564136352" lon="120.35641983493">-->
-<!--    <name>许村人民镇府</name>-->
-
-
-
-
-
-

@@ -8,8 +8,8 @@
      -->
 
         
-    <wpt lat="30.295081121774338" lon="120.10331635851875">
-        <name>莱茵矩阵</name>
+    <wpt lat="29.298640890041142" lon="118.41300409128316">
+        <name>马金汽车站</name>
         <!--
          Optionally provide a time element for each waypoint. Xcode will interpolate movement
          at a rate of speed based on the time elapsed between each waypoint. If you do not provide
@@ -37,9 +37,3 @@
 
 <!--<wpt lat="30.426467564136352" lon="120.35641983493">-->
 <!--    <name>许村人民镇府</name>-->
-
-
-
-
-
-
